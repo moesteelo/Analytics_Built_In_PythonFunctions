@@ -13,6 +13,6 @@
 
 - **The `Sorted` function takes an iterable pbject and returns a sorted list of all the items in siad iterable. Strings are sorted alphabetically while numbers are sorted numerically. We can also specify the sorted order by assigning the ***True***** **(descending) or** ***False*** **(ascending) to the reverse arguemnt**
 
-<img src="img/Sorted.png">
-<img src="img/Sorted with numbers.png">
+<img src="img/sorted.png">
+<img src="img/sorted numbers.png">
 
