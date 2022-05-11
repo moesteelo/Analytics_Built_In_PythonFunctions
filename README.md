@@ -18,10 +18,16 @@
 
 
 
-### 2) Zip Function
+### 3) Zip Function
 
 - **The `zip()` function is used to assign items from different iterators together. It returns a zip object, containing tuples of the corresponding items in each iterable.It can also be used together with the built-in dict() function to create a dictionary object.Finally, we can use the zip() function to unpack a series of elements (tuples) in a list to independent tuples by using the * operator.**
 
 <img src="img/zip.png">
 <img src="img/zip 1.png">
 <img src="img/zip 3.png">
+
+### 3) Zip Function
+
+- **The `map()` function takes in another function and an iterable object such as a string or tuple and returns the results after applying the given function to each item in the iterable.** 
+
+<img src= "img/map.png">
