@@ -16,3 +16,12 @@
 <img src="img/sorted.png">
 <img src="img/sorted numbers.png">
 
+
+
+### 2) Zip Function
+
+- **The `zip()` function is used to assign items from different iterators together. It returns a zip object, containing tuples of the corresponding items in each iterable.It can also be used together with the built-in dict() function to create a dictionary object.Finally, we can use the zip() function to unpack a series of elements (tuples) in a list to independent tuples by using the * operator.**
+
+<img src="img/zip.png">
+<img src="img/zip 1.png">
+
