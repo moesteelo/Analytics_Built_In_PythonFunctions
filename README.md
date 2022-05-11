@@ -1,2 +1,8 @@
 # Analytics_Built_In_PythonFunctions
-12 of the most used built in functions data Analytics and Data Scientists use 
+**12 of the most used built in functions data Analytics and Data Scientists use**
+
+## Overview 
+
+### Enumerate Function 
+- **The enumerate() function allows you to write a for loop that comes with an index. This means we can automatically assign a count variable to each item in an iterable. When we use enumerate(), we get back the count of the current iteration, and then the value of the item at that iteration.**
+
