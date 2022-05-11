@@ -3,6 +3,6 @@
 
 ## Overview 
 
-### Enumerate Function 
+### 1) Enumerate Function 
 - **The enumerate() function allows you to write a for loop that comes with an index. This means we can automatically assign a count variable to each item in an iterable. When we use enumerate(), we get back the count of the current iteration, and then the value of the item at that iteration.**
 
