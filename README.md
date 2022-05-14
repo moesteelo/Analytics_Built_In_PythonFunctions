@@ -33,8 +33,13 @@
 <img src= "img/map.png">
 
 
-### 4) Filter Function
+### 5) Filter Function
 
 - **Like the map() function, the filter() function also takes in another function and an iterable such as a list or tuple and then returns the elements in the iterable for which the function returns True.**
 
 <img src= "img/map.png">
+
+### 5) InIstance Function
+
+**The `isinstance()` function is used to check if an object is an instance of a specified class. It takes in two arguments, an object and a class name, and then returns True if the object is an instance of that class and False if it’s not.**
+
