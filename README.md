@@ -49,13 +49,19 @@
 
 - **The `range()` function returns a sequence of numbers with a specified length. It takes in three arguments; start, stop and step. The start argument is optional and specifies the beginning of the sequence, set to 0 by default.The round() function takes in a floating-point number and rounds it up to the nearest integer by default. If specified, the ndigits argument will round up the input to the number of decimal places entered.**
 
+<img src= "img/range.png">
+
 ### 8) Round Function
 
 - **The `round()` function takes in a floating-point number and rounds it up to the nearest integer by default. If specified, the ndigits argument will round up the input to the number of decimal places entered.**
 
+<img src= "img/round.png">
+
 ### 9) Set Function
 
-- **Sets are one of the four built-in collection data types in Python, and is used to store multiple items in a single variable. Set items are unordered, unchangeable, and do not allow duplicate values. The `set()` function takes in another collection object such as a list or tuple, and outputs a set.
+- **Sets are one of the four built-in collection data types in Python, and is used to store multiple items in a single variable. Set items are unordered, unchangeable, and do not allow duplicate values. The `set()` function takes in another collection object such as a list or tuple, and outputs a set.**
+
+<img src= "img/set.png">
 
 ### 10) All and any Function
 
@@ -63,12 +69,25 @@
 
 - **The `any()` function accepts an iterable as its input and returns True if at least one element is true. It returns False if no single element in the list is true.**
 
+<img src= "img/any&all.png">
+
 
 ### 11) Eval Function
 
 - **The `eval()` function allows a user to run Python code from a string-based or compiled-code-based input. This function is especially handy when you’re trying to evaluate Python expressions that come in a string format, such as a mathematical expression.**
 
+<img src= "img/eval.png">
+
+
 ### 12) Format Function
 
 -**The `format()` function returns a formatted representation of a value based on a specified format. It takes in two arguments, the value to be formatted, and a specification of how the value is to be formatted.**
+
+<img src= "img/format.png">
+
+
+## Resources
+
+- [Medium Article](https://medium.com/@jawadkr111/20-powerful-pandas-functions-for-your-data-analysis-da7b75600798) 
+
 
