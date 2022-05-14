@@ -39,7 +39,25 @@
 
 <img src= "img/map.png">
 
-### 5) InIstance Function
+### 6) InIstance Function
 
 **The `isinstance()` function is used to check if an object is an instance of a specified class. It takes in two arguments, an object and a class name, and then returns True if the object is an instance of that class and False if it’s not.**
+
+<img src= "img/inisntance.png">
+
+### 7) Range Function
+
+- **The `range()` function returns a sequence of numbers with a specified length. It takes in three arguments; start, stop and step. The start argument is optional and specifies the beginning of the sequence, set to 0 by default.**
+
+### 8) Round Function
+
+- **The `round()` function takes in a floating-point number and rounds it up to the nearest integer by default. If specified, the ndigits argument will round up the input to the number of decimal places entered.**
+
+### 9) Set Function
+
+### 10) All and any Function
+
+### 11) Eval Function
+
+### 12) Format Function
 
