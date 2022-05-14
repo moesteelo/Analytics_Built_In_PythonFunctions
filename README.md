@@ -47,7 +47,7 @@
 
 ### 7) Range Function
 
-- **The `range()` function returns a sequence of numbers with a specified length. It takes in three arguments; start, stop and step. The start argument is optional and specifies the beginning of the sequence, set to 0 by default.**
+- **The `range()` function returns a sequence of numbers with a specified length. It takes in three arguments; start, stop and step. The start argument is optional and specifies the beginning of the sequence, set to 0 by default.The round() function takes in a floating-point number and rounds it up to the nearest integer by default. If specified, the ndigits argument will round up the input to the number of decimal places entered.**
 
 ### 8) Round Function
 
@@ -55,9 +55,20 @@
 
 ### 9) Set Function
 
+- **Sets are one of the four built-in collection data types in Python, and is used to store multiple items in a single variable. Set items are unordered, unchangeable, and do not allow duplicate values. The `set()` function takes in another collection object such as a list or tuple, and outputs a set.
+
 ### 10) All and any Function
+
+- **The `all()` function takes in an iterable such as a list or tuple and returns True if all the elements in the iterable are true, and False if one or more of the items are false.**
+
+- **The `any()` function accepts an iterable as its input and returns True if at least one element is true. It returns False if no single element in the list is true.**
+
 
 ### 11) Eval Function
 
+- **The `eval()` function allows a user to run Python code from a string-based or compiled-code-based input. This function is especially handy when you’re trying to evaluate Python expressions that come in a string format, such as a mathematical expression.**
+
 ### 12) Format Function
+
+-**The `format()` function returns a formatted representation of a value based on a specified format. It takes in two arguments, the value to be formatted, and a specification of how the value is to be formatted.**
 
